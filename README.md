@@ -93,6 +93,12 @@ I told a GIS joke once. I had to explain it three different times. And still, no
 
 ---
 
+@Don_Meltz
+
+I have an ArcPro joke, but the punchline won't be available until the next release.
+
+---
+
 @pcrickard
 
 I have a GIS joke but 999999
