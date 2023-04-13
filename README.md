@@ -8,6 +8,8 @@
 I have a joke on ArcGIS but I need the buy the license first.
 
 ---
+I have a statistics joke, but it's pretty mean
+---
 
 @hansakwast
 
